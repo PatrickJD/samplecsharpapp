@@ -1,3 +1,5 @@
+CodeGuru Security Status
+
 [![CodeGuru Security Example](https://github.com/PatrickJD/samplecsharpapp/actions/workflows/main.yml/badge.svg)](https://github.com/PatrickJD/samplecsharpapp/actions/workflows/main.yml)
 
 # Classic ASP.NET Web Application (.NET Framework) with Dependency Injection
