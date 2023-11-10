@@ -1,3 +1,5 @@
+[![CodeGuru Security Example](https://github.com/PatrickJD/samplecsharpapp/actions/workflows/main.yml/badge.svg)](https://github.com/PatrickJD/samplecsharpapp/actions/workflows/main.yml)
+
 # Classic ASP.NET Web Application (.NET Framework) with Dependency Injection
 
 This repository was born out of a need for web/application developers to migrate their somewhat out-dated ASP.NET MVC web application using the .NET Framework to the newest ASP.NET MVC Core release.
